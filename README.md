@@ -5,6 +5,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
+  <a href="https://github.com/Yuvanraj-K-S"><img src="https://komarev.com/ghpvc/?username=Yuvanraj-K-S&label=Profile+Views&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/></a>
+  <a href="https://github.com/Yuvanraj-K-S?tab=followers"><img src="https://img.shields.io/github/followers/Yuvanraj-K-S?label=Followers&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Followers"/></a>
+  <a href="https://github.com/Yuvanraj-K-S?tab=repositories"><img src="https://img.shields.io/github/stars/Yuvanraj-K-S?label=Total+Stars&style=for-the-badge&color=6D28D9&logo=starship&logoColor=white" alt="Stars"/></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-6366F1?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-India%20%F0%9F%87%AE%F0%9F%87%B3-10B981?style=flat-square" />
   <img src="https://img.shields.io/badge/Loves-Building%20Cool%20Stuff-EC4899?style=flat-square" />
@@ -16,18 +22,30 @@
 
 ## 🎨 About Me
 
+```python
+class YuvanrajKS:
+    def __init__(self):
+        self.name = "Yuvanraj K S"
+        self.role = "AI/ML Engineer & Full-Stack Developer"
+        self.location = "India 🇮🇳"
+        self.education = "B.E. CSE (Specialization in AI & ML)"
+        self.passion = ["Building AI Solutions", "Problem Solving", "Open Source"]
+        
+    def current_focus(self):
+        return [
+            "🔬 Advanced MLOps & Computer Vision",
+            "🎤 Voice Recognition Systems",
+            "🐄 Agriculture & Healthcare AI",
+            "🚀 Contributing to open source"
+        ]
+    
+    def get_daily_routine(self):
+        return "Code 💻 → Solve Problems 🧩 → Learn 📚 → Repeat 🔄"
+```
+
 <table>
 <tr>
 <td width="60%">
-
-I'm a **Computer Science Engineering student** specializing in **Artificial Intelligence & Machine Learning**, currently pursuing my B.E. degree. My journey in tech is driven by curiosity and the desire to create meaningful solutions.
-
-> **"Learning today, building tomorrow."**
-
-🔭 Currently working on AI-powered solutions for **agriculture** and **healthcare**  
-🌱 Learning advanced **MLOps**, **Computer Vision**, and **Voice Recognition**  
-💡 I love turning complex problems into elegant, scalable solutions  
-⚡ Fun fact: I debug code faster than I can decide what anime to watch next!
 
 ### 🎯 What Drives Me
 
@@ -36,28 +54,21 @@ I'm a **Computer Science Engineering student** specializing in **Artificial Inte
 - Contributing to **open-source** and helping others learn
 - Exploring the intersection of **technology and social good**
 
+🔭 Currently working on AI-powered solutions for **agriculture** and **healthcare**  
+🌱 Learning advanced **MLOps**, **Computer Vision**, and **Voice Recognition**  
+⚡ Fun fact: I debug code faster than I can decide what anime to watch next!
+
 </td>
 <td width="40%">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding" />
 
-### 📫 Quick Stats
-
-```text
-🎓 Education: B.E - CSE (AI & ML)
-💼 Status: Student & Builder
-🌍 Based in: India
-☕ Coffee Consumed: ∞
-```
-
 ### 🎮 When I'm Not Coding
-
 ```diff
-+ Binge-watching anime marathons
++ Binge-watching anime
 + Hanging out with friends
 + Experimenting in the kitchen
 + Eating delicious food
-+ Catching up on sleep (finally!)
 ```
 
 </td>
@@ -66,11 +77,12 @@ I'm a **Computer Science Engineering student** specializing in **Artificial Inte
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🛠️ Tech Arsenal
 
-<div align="center">
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br/>
 
-### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -78,7 +90,12 @@ I'm a **Computer Science Engineering student** specializing in **Artificial Inte
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 💻 Development & Frameworks
+</details>
+
+<details open>
+<summary><b>💻 Development & Frameworks</b></summary>
+<br/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -86,13 +103,23 @@ I'm a **Computer Science Engineering student** specializing in **Artificial Inte
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ☁️ Cloud & DevOps
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔧 Other Tools & Languages
+</details>
+
+<details open>
+<summary><b>🔧 Other Tools & Languages</b></summary>
+<br/>
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -100,46 +127,30 @@ I'm a **Computer Science Engineering student** specializing in **Artificial Inte
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-</div>
+</details>
 
 ---
 
 ## 🌟 Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🐄 Cattle Health AI System
-![Cattle Health](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Computer%20Vision-6366F1?style=flat-square)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Yuvanraj-K-S&repo=Cattle_Health_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Yuvanraj-K-S/Cattle_Health_App)
 
-AI-powered cattle health monitoring system using deep learning and computer vision to detect diseases early.
-
-**Possible Impact:** 
-- 🎯 80% faster disease detection
-- 🌾 Can serve farmers
-- 📈 Improve livestock health outcomes
-
-[View Project →](https://github.com/Yuvanraj-K-S/Cattle_Health_App)
+**🔹 AI-powered disease detection**  
+Early detection system using deep learning and computer vision.
 
 </td>
 <td width="50%">
 
 ### 🎤 IdentiVoice
-![IdentiVoice](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Audio%20AI-8B5CF6?style=flat-square)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Yuvanraj-K-S&repo=IdentiVoice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Yuvanraj-K-S/IdentiVoice)
 
-Advanced voice recognition system with real-time audio processing and multi-language support.
-
-**Features:**
-- 🔊 Real-time voice analysis
-- 🌍 Multi-language support
-- 🧠 Custom neural networks
-
-[View Project →](https://github.com/Yuvanraj-K-S/IdentiVoice)
+**🔹 Advanced voice recognition**  
+Real-time audio processing with multi-language support.
 
 </td>
 </tr>
@@ -147,62 +158,84 @@ Advanced voice recognition system with real-time audio processing and multi-lang
 <td width="50%">
 
 ### 💻 C-D-Assist
-![C-D-Assist](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-ML%20Assistant-F59E0B?style=flat-square)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Yuvanraj-K-S&repo=C-D-Assist&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Yuvanraj-K-S/C-D-Assist)
 
-Intelligent coding assistant that automates repetitive tasks and boosts developer productivity.
-
-**Benefits:**
-- ⚡ 40% productivity increase
-- 🤖 Smart code suggestions
-- 🚀 Task automation
-
-[View Project →](https://github.com/Yuvanraj-K-S/C-D-Assist)
+**🔹 Intelligent coding assistant**  
+Automates tasks and boosts developer productivity by 40%.
 
 </td>
 <td width="50%">
 
 ### 🔗 More Projects
 
-Explore my other exciting projects:
-
+Explore additional work:
 - 📊 Data Analytics Dashboards
-- 🎮 Game Development Projects
+- 🎮 Game Development
 - 🌐 Web Applications
-- 🔬 Research Implementations
 
-[Browse All Repositories →](https://github.com/Yuvanraj-K-S?tab=repositories)
+[![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvanraj-K-S?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Coding Platforms & Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuvanraj-K-S&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvanraj-K-S&theme=react&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvanraj-K-S&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+### 💻 LeetCode Profile
 
-</div>
+<a href="https://leetcode.com/u/YUVANRAJ_01/">
+  <img src="https://leetcard.jacoblin.cool/YUVANRAJ_01?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
+</a>
 
----
+<a href="https://leetcode.com/u/YUVANRAJ_01/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
 
-## 🏆 Coding Platforms
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🍳 CodeChef Profile
 
-| Platform | Profile | Highlights |
-|:--------:|:-------:|:----------:|
-| 💻 **LeetCode** | [@YUVANRAJ_01](https://leetcode.com/u/YUVANRAJ_01) | ![LeetCode](https://img.shields.io/badge/150+-Problems-FFA116?style=flat-square&logo=leetcode) |
-| 👨‍💻 **CodeChef** | [@kit23bam063](https://www.codechef.com/users/kit23bam063) | ![CodeChef](https://img.shields.io/badge/1600+-Rating-5B4638?style=flat-square&logo=codechef) |
-| 🎯 **Codolio** | [@Yuvan](https://codolio.com/profile/Yuvan) | ![Codolio](https://img.shields.io/badge/Active-Profile-8B5CF6?style=flat-square) |
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Rating-1600+-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Problems-Solved-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Active-Coder-51CF66?style=for-the-badge&logo=codechef&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://www.codechef.com/users/kit23bam063" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🎯 Codolio
+
+<a href="https://codolio.com/profile/Yuvan" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-Active%20Profile-8B5CF6?style=for-the-badge" alt="Codolio" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ### 🎯 Coding Philosophy
 
@@ -219,6 +252,49 @@ while (alive) {
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuvanraj-K-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&ring_color=4F46E5" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvanraj-K-S&theme=react&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="Streak Stats" />
+
+<br/><br/>
+
+<a href="https://github.com/Yuvanraj-K-S"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvanraj-K-S&theme=algolia" width="100%" /> 
+</a>
+
+<br/><br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvanraj-K-S&theme=algolia" width="31%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvanraj-K-S&theme=algolia" width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvanraj-K-S&theme=algolia" width="31%" title="🦉 Productive Hours" />
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvanraj-K-S&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Yuvanraj-K-S)
+
+<br/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Yuvanraj-K-S&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Yuvanraj-K-S)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvanraj-K-S/Yuvanraj-K-S/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvanraj-K-S/Yuvanraj-K-S/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Yuvanraj-K-S/Yuvanraj-K-S/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -229,14 +305,32 @@ while (alive) {
 <a href="mailto:kit27.am63@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://codolio.com/profile/Yuvan">
+  <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Codolio" />
+</a>
 
-<br><br>
+<br/><br/>
 
+### 💭 Quote of the Day
 
-<img src="https://komarev.com/ghpvc/?username=Yuvanraj-K-S&style=for-the-badge&color=6366F1" alt="Profile Views" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+### 💡 Today's Random Dev Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+<br/><br/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+### ✨ "Learning today, building tomorrow."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+
+**⭐ If you find my work interesting, feel free to star my repositories!**
+
+*Made with ❤️ by [Yuvanraj K S](https://github.com/Yuvanraj-K-S)*
 
 </div>
