@@ -22,54 +22,79 @@
 
 ## 🎨 About Me
 
-```python
-class YuvanrajKS:
-    def __init__(self):
-        self.name = "Yuvanraj K S"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.location = "India 🇮🇳"
-        self.education = "B.E. CSE (Specialization in AI & ML)"
-        self.passion = ["Building AI Solutions", "Problem Solving", "Open Source"]
-        
-    def current_focus(self):
-        return [
-            "🔬 Advanced MLOps & Computer Vision",
-            "🎤 Voice Recognition Systems",
-            "🐄 Agriculture & Healthcare AI",
-            "🚀 Contributing to open source"
-        ]
-    
-    def get_daily_routine(self):
-        return "Code 💻 → Solve Problems 🧩 → Learn 📚 → Repeat 🔄"
-```
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Hey!+I'm+Yuvanraj+K+S+%F0%9F%91%8B;AI%2FML+Engineer+%26+Full-Stack+Dev;B.E.+CSE+(AI+%26+ML+Specialization);Based+in+India+%F0%9F%87%AE%F0%9F%87%B3" alt="About Me" />
+</div>
+
+<br/>
+
+### 🎯 Who Am I?
+
+> **Passionate AI/ML Engineer** crafting intelligent solutions that make a difference. I don't just write code — I architect experiences, solve complex puzzles, and turn ambitious ideas into reality.
+
+### 💎 What Drives Me
+
+🚀 **Innovation Mindset** — Pushing boundaries with cutting-edge AI/ML technologies  
+🌍 **Impact-Focused** — Building systems that create real-world change  
+🤝 **Community Builder** — Active open-source contributor and knowledge sharer  
+🎓 **Continuous Learner** — Always exploring the next frontier in tech  
+
+### 🔥 Current Adventures
+
+- 🔬 Diving deep into **MLOps & Computer Vision**
+- 🎤 Developing **Voice Recognition Systems**
+- 🐄 Creating **AI solutions for Agriculture & Healthcare**
+- 🌟 Contributing to **Open Source** projects
+
+### ⚡ Fun Fact
+
+*When I'm not debugging code or training models, you'll find me exploring new cuisines, binge-watching anime, or hanging out with friends. I debug faster than I can pick which anime to watch next!* 🎌
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" />
+
+### 🎮 Beyond the Code
 
 <table>
 <tr>
-<td width="60%">
+<td align="center" width="50%">
 
-### 🎯 What Drives Me
-
-- Building AI systems that create **real-world impact**
-- Bridging the gap between **research and production**
-- Contributing to **open-source** and helping others learn
-- Exploring the intersection of **technology and social good**
-
-🔭 Currently working on AI-powered solutions for **agriculture** and **healthcare**  
-🌱 Learning advanced **MLOps**, **Computer Vision**, and **Voice Recognition**  
-⚡ Fun fact: I debug code faster than I can decide what anime to watch next!
+**🍜**  
+Food Explorer
 
 </td>
-<td width="40%">
+<td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding" />
+**📺**  
+Anime Enthusiast
 
-### 🎮 When I'm Not Coding
-```diff
-+ Binge-watching anime
-+ Hanging out with friends
-+ Experimenting in the kitchen
-+ Eating delicious food
-```
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**👥**  
+Social Butterfly
+
+</td>
+<td align="center" width="50%">
+
+**👨‍🍳**  
+Kitchen Scientist
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+*"Building the future, one commit at a time"* ✨
 
 </td>
 </tr>
@@ -79,55 +104,67 @@ class YuvanrajKS:
 
 ## 🛠️ Tech Arsenal
 
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br/>
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-Learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45" alt="Keras" />
+</p>
 
-</details>
+### 💻 Development & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
+</p>
 
-<details open>
-<summary><b>💻 Development & Frameworks</b></summary>
-<br/>
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🔧 Other Tools & Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi" />
+</p>
 
-</details>
+</td>
+<td width="35%" align="center" valign="middle">
 
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" />
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 📈 Tech Stack Stats
 
-</details>
+```text
+🔥 Most Used: Python, JavaScript
+⚡ Frameworks: React, Django, Flask
+☁️  Cloud: AWS, Docker, K8s
+🎯 Focus: AI/ML, Full-Stack
+```
 
-<details open>
-<summary><b>🔧 Other Tools & Languages</b></summary>
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvanraj-K-S&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" />
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -237,16 +274,11 @@ Explore additional work:
 </tr>
 </table>
 
-### 🎯 Coding Philosophy
+<br/>
 
-```javascript
-while (alive) {
-  eat();
-  sleep();
-  code();
-  repeat();
-}
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&text=Coding%20Philosophy&fontSize=40&fontAlignY=40&desc=while%20(alive)%20%7B%20eat();%20sleep();%20code();%20repeat();%20%7D&descSize=20&descAlignY=65&animation=twinkling" />
+</div>
 
 </div>
 
@@ -310,20 +342,6 @@ while (alive) {
 </a>
 
 <br/><br/>
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-### 💡 Today's Random Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-<br/><br/>
-
----
 
 ### ✨ "Learning today, building tomorrow."
 
